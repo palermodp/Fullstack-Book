@@ -3,7 +3,7 @@ import Home from "./components/Home";
 import Frontend from './pages/Frontend';
 import Backend from './pages/Backend';
 import Auth from './pages/Auth';
-import Register from './pages/register';  // Cambiar Register.jsx por register.jsx
+import Register from './pages/register.jsx';  // Cambiar Register.jsx por register.jsx
 import Profile from './pages/Profile';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
